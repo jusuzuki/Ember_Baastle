@@ -1,0 +1,20 @@
+{"stories": [
+  {
+    "headline": "Vermillian Salt",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae tellus aliquam urna fringilla mollis. Duis suscipit dolor neque, a ornare quam rutrum non. Sed efficitur gravida ligula vitae tempus. In ut neque at quam vestibulum lobortis ultrices et sapien. Nulla imperdiet blandit eros sed fringilla. Nam molestie tortor vitae ex tincidunt, et malesuada sapien tristique. Cras leo nulla, auctor ac pellentesque nec, volutpat id diam. Integer sit amet est volutpat, euismod mi non, posuere odio. Aliquam maximus fringilla magna, eget cursus enim imperdiet eu.",
+    "section": "Books",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+  },
+  {
+    "headline": "Alex Morgan Wins Big!",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae tellus aliquam urna fringilla mollis. Duis suscipit dolor neque, a ornare quam rutrum non. Sed efficitur gravida ligula vitae tempus. In ut neque at quam vestibulum lobortis ultrices et sapien. Nulla imperdiet blandit eros sed fringilla. Nam molestie tortor vitae ex tincidunt, et malesuada sapien tristique. Cras leo nulla, auctor ac pellentesque nec, volutpat id diam. Integer sit amet est volutpat, euismod mi non, posuere odio. Aliquam maximus fringilla magna, eget cursus enim imperdiet eu. Sed ultricies placerat arcu, vel vehicula turpis. Duis ut volutpat turpis. Maecenas finibus porta placerat. Maecenas neque turpis, accumsan eget porttitor ac, pharetra ac leo. Nulla ut porttitor eros. Donec posuere eros congue eros tempus cursus. Maecenas ac lacinia nisl. Sed scelerisque, ligula eget feugiat aliquet, mi purus interdum ipsum, vitae dictum purus lectus ut tortor. Suspendisse gravida efficitur justo, eu hendrerit nisl faucibus quis.",
+    "section": "Sports",
+    "image":  "https://upload.wikimedia.org/wikipedia/commons/0/0e/Alfonso_13_Highrise_Tegucigalpa.jpg"
+  },
+  {
+    "headline": "Seattle Reign out, Portland Thorns in for the final!",
+    "text": "Duis suscipit dolor neque, a ornare quam rutrum non. Sed efficitur gravida ligula vitae tempus. In ut neque at quam vestibulum lobortis ultrices et sapien. Nulla imperdiet blandit eros sed fringilla. Nam molestie tortor vitae ex tincidunt, et malesuada sapien tristique. Cras leo nulla, auctor ac pellentesque nec, volutpat id diam. Integer sit amet est volutpat, euismod mi non, posuere odio. Aliquam maximus fringilla magna, eget cursus enim imperdiet eut.",
+    "section": "Sports",
+    "image":  "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg"
+  }
+]}
