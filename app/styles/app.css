@@ -1,3 +1,7 @@
 img {
   max-width: 300px;
 }
+
+img.thumb {
+  max-width: 35px;
+}
