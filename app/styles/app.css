@@ -1,7 +1,58 @@
+body {
+  font-family: proxima-nova,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+}
+
 img {
   max-width: 300px;
 }
 
+img.detail {
+  float: right;
+  margin: 0 0 10px 10px;
+  max-width: 590px;
+}
+
 img.thumb {
   max-width: 35px;
+}
+
+.image {
+   position: relative;
+   width: 100%; /* for IE 6 */
+}
+
+h2.tile {
+   position: absolute;
+   top: 100px;
+   left: 0;
+   width: 300px;
+}
+
+h2 span {
+   color: white;
+   font: bold 14px/14px Helvetica, Sans-Serif;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+}
+
+.headline {
+  float: left;
+  font-size: 35px;
+  position: absolute;
+  width: 60%;
+  background: #FF4444;
+  margin-top: 175px;
+}
+
+.content {
+  font-family: 'Halant',Georgia,serif;
+  font-size: 20px;
+  line-height: 1.4;
+  margin: 20px auto 30px;
+  width: 80%;
 }

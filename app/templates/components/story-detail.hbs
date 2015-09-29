@@ -1,5 +1,10 @@
 <!-- Manually created this file -->
 
-<p>{{story.headline}}</p>
-<p><img src={{story.image}} alt={{story.headline}}></p>
-<p>{{story.text}}</p>
+<div class="row">
+  <div class="headline">{{story.headline}}</div>
+  <img class="detail" src={{story.image}} alt={{story.headline}}>
+</div>
+
+<div class="row content">
+  <p>{{story.text}}</p>
+</div>
