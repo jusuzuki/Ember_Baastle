@@ -2,6 +2,6 @@ This is our index page.
 
 <ul>
   {{#each model as |story|}}
-    <li>{{story.headline}}</li>
+    {{story-tile story=story}}
   {{/each}}
 </ul>
