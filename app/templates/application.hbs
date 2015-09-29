@@ -19,13 +19,15 @@
         <li>{{#link-to 'index'}}Movies{{/link-to}}</li>
         <li>{{#link-to 'index'}}News{{/link-to}}</li>
         <li>{{#link-to 'index'}}Entertainment{{/link-to}}</li>
+
+        <!-- This dropdown menu doesn't open -->
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li>{{#link-to 'story'}}Stories{{/link-to}}</li>
             <li>{{#link-to 'about'}}Find out more!{{/link-to}}</li>
           </ul>
         </li>
+
       </ul>
     </div>
   </div>
@@ -38,6 +40,5 @@
 <hr>
 
 <footer>
-  {{#link-to 'story'}}Stories{{/link-to}}
   {{#link-to 'about'}}Find out more!{{/link-to}}
 </footer>
